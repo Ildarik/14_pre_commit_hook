@@ -2,7 +2,7 @@
 
 Solve Quadratic Equations from CLI.
 
-# How to Run
+# How to Use
 ```python
 from quadratic_equation import get_roots
 get_roots(1,6,4)
