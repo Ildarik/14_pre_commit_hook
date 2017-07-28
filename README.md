@@ -1,6 +1,13 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Solve Quadratic Equations from CLI.
+
+# How to Run
+```python
+from quadratic_equation import get_roots
+get_roots(1,6,4)
+(-5.23606797749979, -0.7639320225002102)
+```
 
 # Project Goals
 
